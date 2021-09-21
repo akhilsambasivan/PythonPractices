@@ -1,2 +1,2 @@
 name = "Akhil Sambasivan"
-print(name[:-1])
+print(name[:-1])c
